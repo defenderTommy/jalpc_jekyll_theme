@@ -23,8 +23,13 @@ author:
 jingyu:
   first_name: 'Harindu'
   last_name: 'Kodituwakku'
-  description: 'Painter.'
+  description: 'Techaholic.'
   link: 'http://harindu.xyz'
+  insta: 'https://www.instagram.com/harinduk/'
+  google: 'https://plus.google.com/+harindukodituwakku/'
+  sound: 'https://soundcloud.com/harindu-kodituwakku'
+  linked: 'https://www.linkedin.com/in/harindukodi'
+  twitter: 'https://twitter.com/Harindukodi'
   email: 'harindukodi@outlook.com'
 
 # landing page
