@@ -13,7 +13,7 @@ baseurl: "/"
 # url: "http://127.0.0.1:4000"
 
 # Google services
-google_analytics: UA-82442761-1
+google_analytics: 'UA-82442761-1'
 
 # author
 author:
