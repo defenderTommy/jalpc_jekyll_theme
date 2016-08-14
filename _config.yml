@@ -5,7 +5,7 @@ title: "Harindu Kodituwakku"
 description: "Harindu Kodituwakku's Personal Website."
 keywords: "Harindu, Kodituwakku, Harindu Kodituwakku, blog"
 
-baseurl: "/jalpc_jekyll_theme/"
+baseurl: "/"
 
 # /jalpc_jekyll_theme/
 >>>>>>> origin/gh-pages
